@@ -12,3 +12,4 @@ pip install -r requests.txt
 uvicorn main:app --reload
 
 URL: https://github.com/AlexanderMaldonado/weather-api 
+PROJECT_URL: https://roadmap.sh/projects/weather-api-wrapper-service
