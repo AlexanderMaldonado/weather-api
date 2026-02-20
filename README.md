@@ -10,3 +10,5 @@ python -m venv .venv
 source .venv/bin/activate
 pip install -r requests.txt
 uvicorn main:app --reload
+
+URL: https://github.com/AlexanderMaldonado/weather-api 
